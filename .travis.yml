@@ -1,5 +1,8 @@
+sudo: false
 language: node_js
 node_js:
   - 'v8'
 install:
   - npm install
+after_success:
+  - yarn send-coverage
