@@ -1,12 +1,12 @@
 {
   "name": "flosight-api",
   "description": "A Florincoin blockchain REST and web socket API service for Flocore Node.",
-  "version": "5.1.0-beta.75",
-  "repository": "git://github.com/oipwg/flosight-api.git",
+  "version": "5.1.1-beta-rm",
+  "repository": "git://github.com/ranchimall/flosight-api.git",
   "bugs": {
-    "url": "https://github.com/oipwg/flosight-api/issues"
+    "url": "https://github.com/ranchimall/flosight-api/issues"
   },
-  "homepage": "https://github.com/oipwg/flosight-api",
+  "homepage": "https://github.com/ranchimall/flosight-api",
   "license": "MIT",
   "keywords": [
     "flosight",
